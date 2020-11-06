@@ -1,0 +1,6 @@
+paper/*.synctex.gz
+paper/*.tex
+paper/*.log
+paper/*.pdf
+.directory
+.DS_store
