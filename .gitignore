@@ -4,3 +4,8 @@ paper/*.log
 paper/*.pdf
 .directory
 .DS_store
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
